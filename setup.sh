@@ -99,8 +99,19 @@ if ask_user "Install modules?"; then
 
     install_mod "mod-aoe-loot" "https://github.com/azerothcore/mod-aoe-loot.git"
     install_mod "mod-learn-spells" "https://github.com/noisiver/mod-learnspells.git"
-    install_mod "mod-fireworks-on-level" "https://github.com/azerothcore/mod-fireworks-on-level.git"
     install_mod "mod-individual-progression" "https://github.com/ZhengPeiRu21/mod-individual-progression.git"
+    install_mod "mod-ah-bot-plus" "https://github.com/NathanHandley/mod-ah-bot-plus.git"
+    install_mod "mod-dungeon-clear" "https://github.com/jrad7/mod-dungeon-clear.git"
+    install_mod "mod-npc-enchanter" "https://github.com/azerothcore/mod-npc-enchanter.git"
+    install_mod "mod-assistant" "https://github.com/noisiver/mod-assistant.git"
+    install_mod "DungeonRespawn" "https://github.com/AnchyDev/DungeonRespawn.git"
+    install_mod "mod-npc-buffer" "https://github.com/azerothcore/mod-npc-buffer.git"
+    install_mod "mod-rdf-expansion" "https://github.com/azerothcore/mod-rdf-expansion.git"
+    install_mod "mod-auto-gather" "https://github.com/thanhtong89/mod-auto-gather.git"
+    install_mod "mod-token-turnin" "https://github.com/Zerathane/mod-token-turnin.git"
+    install_mod "NoProfessionLimit" "https://github.com/AlsoNotMehh/NoProfessionLimit.git"
+    install_mod "mod-item-affixes" "https://github.com/Nevaden/mod-item-affixes.git"
+    install_mod "mod-profession-experience" "https://github.com/Tereneckla/mod-profession-experience.git"
 
     cd ..
 
